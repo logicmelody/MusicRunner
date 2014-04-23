@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicRunner+</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Tab -->
+    <string name="start_tab">Start</string>
+    <string name="my_tab">My</string>
+    <string name="music_tab">Music</string>
+    <string name="discover_tab">Discover</string>
+
+</resources>
